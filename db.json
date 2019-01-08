@@ -2,7 +2,7 @@
   "send": [
     {
       "session_id": "aabbccddeeff",
-      "rcv_byte": 255,
+      "rcv_byte": 255
     },
   ],
   "reqUTS": {
