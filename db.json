@@ -12,7 +12,7 @@
   "readytorcv": {
     "code": 200,
     "session_id": "aabbccddeeff",
-    "UTS": 115489726,
+    "UTS": 11548,
     "length": 2,
     "barcodes": ["ABCD12345", "PQRS67890"]
   }
