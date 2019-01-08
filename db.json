@@ -1,19 +1,11 @@
 {
-  "send": [
+  "posts": [
     {
-      "session_id": "aabbccddeeff",
-      "rcv_byte": 255
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "reqUTS": {
-    "session_id": "aabbccddeeff",
-    "UTS": 115489726
-  },
-  "readytorcv": {
-    "code": 200,
-    "session_id": "aabbccddeeff",
-    "UTS": 11548,
-    "length": 2,
-    "barcodes": ["ABCD12345", "PQRS67890"]
+  "profile": {
+    "name": "typicode"
   }
 }
