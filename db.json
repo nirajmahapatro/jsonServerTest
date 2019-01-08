@@ -1,0 +1,19 @@
+{
+  "send": [
+    {
+      "session_id": "aabbccddeeff",
+      "rcv_byte": 255
+    }
+  ],
+  "reqUTS": {
+    "session_id": "aabbccddeeff",
+    "UTS": 115489726
+  }
+  "readytorcv" :{
+    "code" : 200,
+    "session_id": "aabbccddeeff",
+    "UTS": 115489726,
+    "length" : 2,
+    "barcodes" : ["ABCD12345", "PQRS67890"]
+  }
+}
